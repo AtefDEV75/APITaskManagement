@@ -1,0 +1,12 @@
+﻿################################################################################
+# Ce fichier .gitignore a été automatiquement créé par Microsoft(R) Visual Studio.
+################################################################################
+
+/TaskManagementAPI.sln
+/.vs/TaskManagementAPI
+/BusinessLayer/bin/Debug/net8.0
+/BusinessLayer/obj
+/DataAccessLayer/bin/Debug/net8.0
+/DataAccessLayer/obj
+/TaskManagementAPI/bin/Debug/net8.0
+/TaskManagementAPI/obj

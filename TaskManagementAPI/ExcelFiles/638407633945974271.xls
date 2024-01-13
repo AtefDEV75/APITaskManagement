@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+
+    <style>
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+        }
+    </style>
+
+</head>
+<body>
+    <table style="width:100%;">
+        <thead>
+            <tr style="font-weight:bold;">
+                <td>Task Title</td>
+                <td>Description</td>
+                <td>Assignee</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr><td>Manger</td><td>Manager Description</td><td>atefarbidev@gmail.com</td></tr><tr><td>AAAAAAAAAAAA</td><td>Developer Description</td><td>mohamed@yahoo.fr</td></tr>
+        </tbody>
+    </table>
+</body>
+</html>
